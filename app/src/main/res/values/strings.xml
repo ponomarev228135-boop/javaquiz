@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JavaQuiz</string>
+    <string name="app_name_ru">Java-викторина</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">Авторизация</string>
+    <string name="login_error">Ошибка при входе</string>
+    <string name="name">Работу выполнил: \n Пономарев Глеб Кириллович\n Группа: \n РИБО-03-23</string>
+    <string name="start_test">Начать тест</string>
+    <string name="previous_question">Предыдущий вопрос</string>
+    <string name="next_question">Следующий вопрос</string>
+    <string name="restart_test">Начать тест заново</string>
+</resources>
